@@ -9,7 +9,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/somya-tomar-6229a8190/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-<!--   <code><a href="https://leetcode.com/SomTom/" title="LeetCode Profile"><img width="22" src="images/hackerrank.png"> Leetcode</a></code> -->
+<!--   <code><a href="https://leetcode.com/" title="LeetCode Profile"><img width="22" src="images/hackerrank.png"> Leetcode</a></code> -->
   <code><a href="https://stackoverflow.com/users/14573214/somya-15" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
