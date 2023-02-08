@@ -104,10 +104,15 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-<!--   <a align="left" href="https://github.com/somya-15/SafeCamFrontEnd" title="SafeCamFrontEnd"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=SafeCamFrontEnd&theme=react&border_color=61dafb&border_radius=10"></a> -->
-<!--   <a align="right" href="https://github.com/somya-15/Quiz" title="Quiz"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=Quiz&theme=react&border_color=61dafb&border_radius=10"></a> -->
+  <a align="left" href="https://github.com/somya-15/Image-Retrieval-Research" title="Image-Retrieval-Research"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=Image-Retrieval-Research&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/somya-15/Y2K" title="Y2K"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=Y2K&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br><br><br><br><br><br>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/somya-15/MommyKitchenFoodApp" title="FoodApp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=MommyKitchenFoodApp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/somya-15/run-aqa" title="run-aqa"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=run-aqa&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
 <h4 align="center">
   <a href="https://github.com/somya-15?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
