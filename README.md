@@ -94,12 +94,12 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/somya-15/MommyKitchenFoodApp" title="MommyKitchenFoodApp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=MommyKitchenFoodApp&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/somya-15/SafeCamFrontEnd" title="SafeCamFrontEnd"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=SafeCamFrontEnd&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/somya-15/AlzheimerDisease" title="AlzheimerDisease"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=AlzheimerDisease&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/somya-15/TeachersHelpGirlsJoinSTEM" title="TeachersHelpGirlsJoinSTEM"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=TeachersHelpGirlsJoinSTEM&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/somya-15/BankingApp" title="BankingApp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=BankingApp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/somya-15/de-monopoly" title="de-monopoly"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=de-monopoly&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/somya-15/Quiz" title="Quiz"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=Quiz&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
