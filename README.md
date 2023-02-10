@@ -89,31 +89,32 @@
 
 <h2 align="center">👩🏻‍💻 Repositories 👩🏻‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/somya-15/LetsBuildCommunity" title="Scribbel"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=LetsBuildCommunity&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/somya-15/AugmentedRealityFirstProject" title="AugmentedRealityFirstProject"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=AugmentedRealityFirstProject&theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center">
+  <a align="left" href="https://github.com/somya-15/LetsBuildCommunity" title="Scribbel"><img align="left" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=LetsBuildCommunity&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/somya-15/AugmentedRealityFirstProject" title="AugmentedRealityFirstProject"><img align="right" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=AugmentedRealityFirstProject&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/somya-15/AlzheimerDisease" title="AlzheimerDisease"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=AlzheimerDisease&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/somya-15/TeachersHelpGirlsJoinSTEM" title="TeachersHelpGirlsJoinSTEM"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=TeachersHelpGirlsJoinSTEM&theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center">
+  <a align="left" href="https://github.com/somya-15/AlzheimerDisease" title="AlzheimerDisease"><img align="left" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=AlzheimerDisease&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/somya-15/TeachersHelpGirlsJoinSTEM" title="TeachersHelpGirlsJoinSTEM"><img align="right" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=TeachersHelpGirlsJoinSTEM&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/somya-15/de-monopoly" title="de-monopoly"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=de-monopoly&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/somya-15/Quiz" title="Quiz"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=Quiz&theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center">
+  <a align="left" href="https://github.com/somya-15/de-monopoly" title="de-monopoly"><img align="left" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=de-monopoly&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/somya-15/Quiz" title="Quiz"><img align="right" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=Quiz&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/somya-15/Image-Retrieval-Research" title="Image-Retrieval-Research"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=Image-Retrieval-Research&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/somya-15/Y2K" title="Y2K"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=Y2K&theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center">
+  <a align="left" href="https://github.com/somya-15/Image-Retrieval-Research" title="Image-Retrieval-Research"><img align="left" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=Image-Retrieval-Research&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/somya-15/Y2K" title="Y2K"><img align="right" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=Y2K&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/somya-15/MommyKitchenFoodApp" title="FoodApp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=MommyKitchenFoodApp&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/somya-15/run-aqa" title="run-aqa"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=run-aqa&theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center">
+  <a align="left" href="https://github.com/somya-15/MommyKitchenFoodApp" title="FoodApp"><img align="left" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=MommyKitchenFoodApp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/somya-15/run-aqa" title="run-aqa"><img align="right" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=run-aqa&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/somya-15?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
