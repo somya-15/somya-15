@@ -82,7 +82,7 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=somya-15&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=somya-15&theme=dracula" width="100%"/>
 </p>
 
 <hr>
@@ -94,8 +94,8 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div align="center">
-  <a align="left" href="https://github.com/somya-15/AlzheimerDisease" title="AlzheimerDisease"><img align="left" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=AlzheimerDisease&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/somya-15/TeachersHelpGirlsJoinSTEM" title="TeachersHelpGirlsJoinSTEM"><img align="right" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=TeachersHelpGirlsJoinSTEM&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" width="100%" href="https://github.com/somya-15/AlzheimerDisease" title="AlzheimerDisease"><img align="left" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=AlzheimerDisease&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" width="100%" href="https://github.com/somya-15/TeachersHelpGirlsJoinSTEM" title="TeachersHelpGirlsJoinSTEM"><img align="right" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=TeachersHelpGirlsJoinSTEM&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div align="center">
