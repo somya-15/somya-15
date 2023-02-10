@@ -82,7 +82,7 @@
     </a>
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=somya-15&theme=dracula" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=somya-15&theme=react" width="100%"/>
 </p>
 
 <hr>
