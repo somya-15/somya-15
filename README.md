@@ -100,7 +100,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div align="center">
   <a align="left" href="https://github.com/somya-15/de-monopoly" title="de-monopoly"><img align="left" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=de-monopoly&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/somya-15/Quiz" title="Quiz"><img align="right" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=Quiz&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/somya-15/Hangman-JavaScript" title="Hangman"><img align="right" height="115" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=somya-15&repo=Hangman-JavaScript&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div align="center">
